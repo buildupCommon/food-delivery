@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+![Netflix_Logo_RGB](https://user-images.githubusercontent.com/54625960/113081639-05d86100-9214-11eb-8c5c-d6ca0f6fdbfd.png)
 
 # 예제 - 넷플렉스
 
